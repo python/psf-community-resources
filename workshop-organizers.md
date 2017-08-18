@@ -2,10 +2,9 @@
 
 ### General info
 
-- [How to submit grant](https://www.python.org/psf/grants/)  
-- [List of python conferences and workshops](https://www.python.org/community/workshops/)  
-- [List of python events](https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event)  
-- [DjangoGirls Tutorials](https://tutorial.djangogirls.org)  
+- The PSF can help fund your workshop.  [How to submit grant](https://www.python.org/psf/grants/)  
+- You can share your workshop on the [list of Python conferences and workshops](https://www.python.org/community/workshops/)  
+- You can share your workshop on the [list of Python events](https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event)  
 
 ### 5 Possible places to host a workshop
 
