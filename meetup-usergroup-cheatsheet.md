@@ -1,23 +1,22 @@
-Meetup/User Group Organizer Cheat Sheet
+# Cheat Sheet: Creating a Meetup Group
 
-1. Check to see if there is a user group or meetup already in your area by going to https://wiki.python.org/moin/LocalUserGroups.
+1. Check whether there is a [user group or meetup already in your area](https://wiki.python.org/moin/LocalUserGroups)
 
-2. If no group exists that meets your needs create a new group following the directions below. 
-	* Go to https://wiki.python.org/moin/StartingYourUsersGroup where most of this information comes from if this doesn't make sense.
+2. If no group exists that meets your needs **create a new group** by following the below steps ([more details here](https://wiki.python.org/moin/StartingYourUsersGroup))
 
-3. Join the organizers email list here. http://mail.python.org/mailman/private/group-organizers/2007-June/000003.html
+3. Join the [organizers email list](http://mail.python.org/mailman/private/group-organizers/2007-June/000003.html) here
 
-4. Define the group name - usually Python <city name>
+4. Define the group name - usually Python CITY_NAME
 
-5. Have a website (preferably with your own domain name), so you can include the URL when promoting the group. 
+5. Make a **group website** (preferably with your own domain name), so you can include the URL when promoting the group. 
 
-6. Define a meeting location. It's good to have a location you can rely upon, monthly, without fail. 
+6. Define a **meeting location**. It's good to have a location you can rely upon, monthly, without fail. 
 	* Businesses that are heavily invested in your technology may sponsor your group. 
 	* Libraries often have space available, although their hours can be limited. 
 	* Bars may host groups on off-nights - they can see it as a way to fill their bar with people.
 	* Coworking spaces are often a good choice as well, as they want their members to be able to network.
 
-7. Define the style of meetings for the group. Decide on the flavor of your meetings. There are lots of different things to do at meetings.
+7. Define **the style of meetings for the group**. Decide on the flavor of your meetings. There are lots of different things to do at meetings.
 	* Presenters
 	* Lightning talks
 	* Code reviews
@@ -37,9 +36,9 @@ Meetup/User Group Organizer Cheat Sheet
 		* Work to run a "scripting conference" in your area, bringing together proponents of the various languages. Some people will convert, either because your group looks like more fun or Python is such a cool language.
 		* Work to run a "web technology conference" in your area, bringing together proponents of the various approaches. Many just want *something* to easily produce web sites and if Python is more friendly, they'll give it a try.
 
-8. Find more people to become part of the organizers team. Getting a second person to sign up as a core organizer helps prevent your own burn-out, and reduces the 'bus number', for when you are indisposed. (on holiday, hospitalized, etc)
+8. Find more people to become part of **the organizers team**. Getting a second person to sign up as a core organizer helps prevent your own burn-out, and reduces the 'bus number', for when you are indisposed. (on holiday, hospitalized, etc)
 
-9. Define the means to promote the group.
+9. Define the means to **promote the group**.
 	* Create a chapter on python.meetup.com. Such chapters cost per month; some say $19.95/month but in Houston they are paying $9.95/month so far. It's a good way for people to find you though, and you can take donations from the membership. In the DFW Pythoneers, they have found many of their members via this method.(Much the same is true for Houston.) 
 		* Apply for a grant from the PSF for meetup fees if needed. Go to https://www.python.org/psf/grants/ for more information on what grants cover and information about how to apply for one.
 	* Standard ways of communicating meetings (i.e. you don't have to use one of the above sites):
